@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">realtech</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">home</string>
+    <string name="settings">settings</string>
+    <string name="hello_from_android">Hello From Android</string>
+    <string name="type_your_name">Type your name</string>
+    <string name="submit">Submit</string>
+    <string name="view_offers">View Offers</string>
+</resources>
